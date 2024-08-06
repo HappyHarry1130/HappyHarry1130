@@ -1,4 +1,4 @@
-Senior Software engineer | betting, trading, image, translate, share
+Senior AI/ML, Full-Stack Developer
 --------------------------------------------------------------------
 
 <a href="https://www.github.com/HappyHarry1130" target="_blank" rel="noreferrer"><img
