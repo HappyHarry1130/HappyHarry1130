@@ -1,4 +1,4 @@
-Senior AI/ML, Full-Stack Developer
+Senior Software Developer
 --------------------------------------------------------------------
 
 <a href="https://www.github.com/HappyHarry1130" target="_blank" rel="noreferrer"><img
